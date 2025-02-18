@@ -66,6 +66,7 @@ The *equilibrium* is given by the functional derivative of the grand potential i
 $$ \frac{\delta \Omega}{\delta \rho(\boldsymbol{r})} = k_B T \ln(\rho(\boldsymbol{r}) \Lambda^3) + \frac{\delta F^{\text{exc}}[\rho]}{\delta \rho(\boldsymbol{r})}  +V^{(\text{ext})}(\boldsymbol{r})-\mu = 0$$
 
 The *dynamics* is given by the DDFT equation in the form 
+
 $$\frac{\partial \rho}{\partial t} = \nabla \cdot \left[ D \rho(\boldsymbol{r}) \nabla \left(\frac{\delta \beta F[\rho]}{\delta \rho}\right) \right]$$
 
 
